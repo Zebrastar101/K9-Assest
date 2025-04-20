@@ -359,7 +359,7 @@ def detect_sitting_segments(heights, video_name):
 def main():
     # Define video paths
     reference_video = "dogSitting.MOV"  # Video with correct sitting
-    test_video = "IMG_4787.mov"      # Video to evaluate
+    test_video = "IMG_6258.MOV"      # Video to evaluate
 
     # Verify files exist
     for video_path in [reference_video, test_video]:
